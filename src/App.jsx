@@ -47,7 +47,7 @@ function App() {
       price: "R175",
       category: "Starters",
       image:
-        "https://images.unsplash.com/photo-1565680018434-b513d5e5fd47?auto=format&fit=crop&w=900&q=80",
+        "https://i.pinimg.com/originals/21/1d/28/211d28361a1c22c3325bdb062b36bfb0.jpg",
     },
     {
       name: "Wild Mushroom Risotto",
